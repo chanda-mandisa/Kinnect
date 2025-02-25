@@ -190,7 +190,7 @@ Kinnect is released under the **MIT License**—you are free to use, modify, and
 
 ## 🔗 Connect With Us
 
-- 🌍 **GitHub Repository:** [KinnectProject/Kinnect](https://github.com/KinnectProject/Kinnect)
+- 🌍 **GitHub Repository:** [Kinnect](https://github.com/chanda-mandisa/Kinnect)
 - 📢 **Official Website (Coming Soon)**
 
 🌟 **Join the Kinnect Movement Today!**
